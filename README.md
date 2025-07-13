@@ -1,11 +1,3 @@
-\# A Reproducible Pipeline for Leveraging Operational Data through Machine Learning in Digitally Emerging Urban Bus Fleets
-
-
-
-This repository contains the complete machine learning pipeline developed for the study:
-
-
-
 \*\*"A Reproducible Pipeline for Leveraging Operational Data through Machine Learning in Digitally Emerging Urban Bus Fleets"\*\*, submitted to \*Applied Sciences (MDPI)\*, Special Issue on Big-Data-Driven Advances in Smart Maintenance and Industry 4.0.
 
 
@@ -51,22 +43,10 @@ This work presents a reproducible and adaptive ML pipeline for predictive mainte
 
 
 urban-bus-ml-pipeline/
-
-├── notebooks/ # Main Jupyter notebook with the full analysis
-
-├── src/ # Python modules for preprocessing, modeling, evaluation
-
-├── data/ # Data folder (excluded from GitHub)
-
-├── figures/ # Generated plots and result visuals
-
-├── requirements.txt # Python dependencies
-
-├── .gitignore # Ignored files and folders
-
-├── LICENSE # Open-source license
-
-└── README.md # Project documentation
+├── dpf_duration_prediction_pipeline.ipynb
+├── README.md
+├── .gitignore
+├── requirements.txt
 
 
 
