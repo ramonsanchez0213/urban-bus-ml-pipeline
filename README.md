@@ -1,11 +1,3 @@
-\# A Reproducible Pipeline for Leveraging Operational Data through Machine Learning in Digitally Emerging Urban Bus Fleets
-
-
-
-This repository contains the complete machine learning pipeline developed for the study:
-
-
-
 \*\*"A Reproducible Pipeline for Leveraging Operational Data through Machine Learning in Digitally Emerging Urban Bus Fleets"\*\*, submitted to \*Applied Sciences (MDPI)\*, Special Issue on Big-Data-Driven Advances in Smart Maintenance and Industry 4.0.
 
 
