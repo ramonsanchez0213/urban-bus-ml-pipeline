@@ -1,0 +1,12 @@
+# Ignorar archivos temporales y datos locales
+__pycache__/
+*.pyc
+*.pkl
+.DS_Store
+
+# Ignorar datasets reales
+data/*.csv
+data/*.xlsx
+
+# Checkpoints automáticos de Jupyter
+.ipynb_checkpoints/
