@@ -154,24 +154,16 @@ This project was developed using:
 
 &nbsp;- Python 3.10
 
- - pandas
-
- - numpy
-
- - scikit-learn
-
- - seaborn
-
- - matplotlib
-
- - imbalanced-learn
-
- - smogn
-
-
-
-(See requirements.txt for the full list.)
-
+ - pandas  
+ - numpy  
+ - scikit-learn  
+ - matplotlib  
+ - seaborn  
+ - joblib  
+ - os  
+ - ydata-profiling  
+ - IPython.display
+ - imbalanced-learn
 
 
 \## Author
